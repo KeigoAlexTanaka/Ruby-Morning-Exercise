@@ -7,7 +7,7 @@
 # define instance methods for name and location
 # starting location is THE NORTH POLE, duh!
 
-# create a take_off method that take altitude as a parameter.
+# create a take_off method that takes altitude as a parameter.
 # write a statement declaring your reindeer took off.
 # write a statement declaring your reindeer ascended to the altitude.
 
