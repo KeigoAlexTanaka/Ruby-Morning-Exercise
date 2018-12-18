@@ -54,7 +54,7 @@ p "---------"
 # 3. Our calculations were completely off, turns out all of those animals went
 # extinct 3 years before the date provided. Update the values in extinct_animals
 # using each, so they accurately reflect what year the animal went extinct.
-p "___----___"
+p "---------"
 
 # 4. You've heard that the following animals might be extinct, but you're not sure.
 # Build a method using each that checks if an animal is in the hash and returns true/false.
