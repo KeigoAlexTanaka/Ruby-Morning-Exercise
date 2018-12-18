@@ -1,8 +1,8 @@
 # Initialize a Reinder Class
 
 # give your reindeer a name and a location
-# make the location readable
-# make the name readable and writable
+# make the location attribute readable
+# make the name attribute readable and writable
 
 # define instance methods for name and location
 # starting location is THE NORTH POLE, duh!
