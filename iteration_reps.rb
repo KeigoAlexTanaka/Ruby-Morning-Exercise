@@ -9,8 +9,13 @@ p "Iterate through Arrays"
 
 # 2. Create a method to see if a particular item is in the
 # zombie_apocalypse_inventory using each.
+# Check for boots and water jug
 # For instance: are boots in your list of supplies?
 p "---------"
+
+
+p "---------"
+
 
 
 # 3. You can't carry too many things, you've only got room in your pack for 5.
@@ -18,13 +23,13 @@ p "---------"
 # leaving only 5, using each.
 p "----------"
 
-
 # 4. You found another survivor! This means you can combine your supplies.
 # Create a new combined inventory list out of your zombie_apocalypse_inventory
 # and their items below. You should get rid of any duplicate items.
 # Find the built-in method that helps you accomplish this in the Ruby
 # documentation for Arrays.
 p "----"
+
 
 
 
@@ -47,14 +52,20 @@ p "Iterate through Hashes"
 p "----------------------"
 
 
+
+
 # 2. Keep only animals in extinct_animals if they were extinct before
 # the year 2000, using each.
 p "---------"
 
+# p extinct_animals.keep_if {|animal, year| year < 2000 }
+
 # 3. Our calculations were completely off, turns out all of those animals went
 # extinct 3 years before the date provided. Update the values in extinct_animals
-# using each, so they accurately reflect what year the animal went extinct.
+# using each, so they accurately reflect what year the animal went extinct. Return the
+# entire hash with the updated keys/values.
 p "---------"
+
 
 # 4. You've heard that the following animals might be extinct, but you're not sure.
 # Build a method using each that checks if an animal is in the hash and returns true/false.
