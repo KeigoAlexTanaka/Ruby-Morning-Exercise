@@ -1,6 +1,7 @@
 # Initialize SANTA CLASS
 
 # set attributes ethnicity, age, gender
+# make ethnicity and age readable and gender readable and writable
 
 
 # define instance methods for gender, ethnicity, age
