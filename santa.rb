@@ -42,7 +42,7 @@
 # declare nine example_genders
 example_genders = ["agender", "female", "transgender", "male", "non-binary", "gender fluid", "N/A", "female", "gender queer"]
 # declare nine example_ethnicities
-example_ethnicities = ["black", "Latino", "white", "Japanese-African", "prefer not to say", "Mystical Creature (unicorn)", "N/A", "Inuit", "South African"]
+example_ethnicities = ["black", "Latino", "white", "Japanese-African", "prefer not to say", "Mystical Creature (unicorn)", "Portuguese", "Inuit", "South African"]
 # Create nine new santas to add to our santas array:
 # loop through the example_genders array and for each gender, push the new santa with one of the ethnicities from example_ethnicities
 # into our santas array
