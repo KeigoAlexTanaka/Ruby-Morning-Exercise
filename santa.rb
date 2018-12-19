@@ -53,7 +53,7 @@ example_ethnicities = ["black", "Latino", "white", "Japanese-African", "prefer n
 
 # Set santas value to zero
 
-# Loop through the Santas 10 times to provide random genders, ethnicities and ages for Santas
+# Loop through the Santas 10 times until random genders, ethnicities and ages for Santas are created
 # For clarity, inside the loop, add this line: puts "New Santa data:"
 # print a random gender and ethnicity for each iteration, this may require a look at the ruby docs for arrays
 # Santas age should range from 0 to 140
