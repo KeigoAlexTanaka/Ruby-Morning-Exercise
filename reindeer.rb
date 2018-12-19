@@ -14,6 +14,8 @@
 # create a land method that takes a location as a parameter.
 # write a statement saying your reindeer landed safely in that location.
 
+
+# CALL YOUR METHODS
 # Name your reindeer
 # Write a statement indicating the name and location
 # Call the take off method with an altitude of 3000 ft
