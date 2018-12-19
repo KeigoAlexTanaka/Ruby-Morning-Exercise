@@ -9,7 +9,7 @@ p "Iterate through Arrays"
 
 # 2. Create a method to see if a particular item is in the
 # zombie_apocalypse_inventory using each.
-# Check for boots and water jug
+# Check for boots and water jug.
 # For instance: are boots in your list of supplies?
 p "---------"
 
