@@ -57,4 +57,3 @@ example_ethnicities = ["black", "Latino", "white", "Japanese-African", "prefer n
 # For clarity, inside the loop, add this line: puts "New Santa data:"
 # print a random gender and ethnicity for each iteration, this may require a look at the ruby docs for arrays
 # Santas age should range from 0 to 140
-# increase santas by 1
