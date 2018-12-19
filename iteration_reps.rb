@@ -74,7 +74,7 @@ p "---------"
 # "Andean Cat"
 # "Dodo"
 # "Saiga Antelope"
-# Driver code example: is_extinct?(extinct_animals, "Andean Cat")
+# Example: is_extinct?(extinct_animals, "Andean Cat")
 p "----------------------------"
 
 
